@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\MI2B(Project)\MI2B(Project)\bin\Debug\MI2B(Project).exe.config
-D:\Users\user\source\repos\MI2B(Project)\MI2B(Project)\bin\Debug\MI2B(Project).exe
-D:\Users\user\source\repos\MI2B(Project)\MI2B(Project)\bin\Debug\MI2B(Project).pdb
-D:\Users\user\source\repos\MI2B(Project)\MI2B(Project)\obj\Debug\MI2B(Project).csproj.AssemblyReference.cache
-D:\Users\user\source\repos\MI2B(Project)\MI2B(Project)\obj\Debug\MI2B(Project).csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\MI2B(Project)\MI2B(Project)\obj\Debug\MI2B(Project).exe
-D:\Users\user\source\repos\MI2B(Project)\MI2B(Project)\obj\Debug\MI2B(Project).pdb
